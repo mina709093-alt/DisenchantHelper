@@ -1,0 +1,18 @@
+## Interface: 16001
+## Title: DisenchantHelper |cff33ff99마력 추출 도우미|r
+## Title-koKR: 마력 추출 도우미 |cff33ff99DisenchantHelper|r
+## Notes: 마력 추출 가능 아이템 자동 표시, 경매장 마력 추출 필터, 일괄 추출 보조
+## Notes-koKR: 마력 추출 가능 아이템 자동 표시, 경매장 마력 추출 필터, 일괄 추출 보조
+## Author: DisenchantHelper
+## Version: 1.0.9
+## Category: 상수팩
+## IconTexture: Interface\Icons\Inv_enchant_disenchant
+## SavedVariables: DisenchantHelperDB
+
+SangsuPack.lua
+Core.lua
+Disenchant.lua
+Bags.lua
+AuctionHouse.lua
+BatchDisenchant.lua
+UI.lua
