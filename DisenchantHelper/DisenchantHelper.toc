@@ -4,15 +4,18 @@
 ## Notes: 마력 추출 가능 아이템 자동 표시, 경매장 마력 추출 필터, 일괄 추출 보조
 ## Notes-koKR: 마력 추출 가능 아이템 자동 표시, 경매장 마력 추출 필터, 일괄 추출 보조
 ## Author: DisenchantHelper
-## Version: 1.0.10
+## Version: 1.1.0
 ## Category: 상수팩
 ## IconTexture: Interface\Icons\Inv_enchant_disenchant
 ## SavedVariables: DisenchantHelperDB, SangsuPackDB
 
 SangsuPack.lua
+SangsuData.lua
 Core.lua
 Disenchant.lua
 Bags.lua
 AuctionHouse.lua
 BatchDisenchant.lua
 UI.lua
+Share.lua
+Changelog.lua
